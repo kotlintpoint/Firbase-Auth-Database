@@ -1,4 +1,9 @@
 # Firbase-Auth-Database
+
+**Firebase :**
+* a powerful platform for building iOS, Android, and web-based apps, offering real-time data storage and synchronization, user authentication, and more.
+* Firebase is a mobile platform that helps you quickly develop high-quality apps, grow your user base, and earn more money. Firebase is made up of complementary features that you can mix-and-match to fit your needs.
+
 Firebase Email-Password Authentication and Database Store and Retrieve
 
 ##Authenticate with Firebase##
